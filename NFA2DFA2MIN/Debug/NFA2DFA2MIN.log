@@ -1,0 +1,76 @@
+﻿生成启动时间为 2018/11/1 21:15:55。
+     1>项目“C:\Users\马黄雷\Documents\Visual Studio 2013\Projects\作业文件\NFA2DFA2MIN\NFA2DFA2MIN\NFA2DFA2MIN.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt NFA2DFA.cpp
+         NFA2DFA.cpp
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\stdafx.h(61): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\stdafx.h(71): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\stdafx.h(86): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\stdafx.h(95): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(79): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(91): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(110): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(119): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(124): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(126): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(147): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(167): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(170): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(186): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(197): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(210): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(227): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(235): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(246): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(255): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(256): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa.h(261): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(69): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(92): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(103): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(105): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(118): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(130): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(140): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(146): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(147): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(171): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(179): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(190): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(199): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(200): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(225): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(233): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(244): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(253): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(254): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(264): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(278): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\dfa.h(292): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(139): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(186): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(193): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(202): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(212): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(239): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(249): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(258): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\马黄雷\documents\visual studio 2013\projects\作业文件\nfa2dfa2min\nfa2dfa2min\nfa2dfa.cpp(268): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\马黄雷\Documents\Visual Studio 2013\Projects\作业文件\NFA2DFA2MIN\Debug\NFA2DFA2MIN.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\马黄雷\Documents\Visual Studio 2013\Projects\作业文件\NFA2DFA2MIN\Debug\NFA2DFA2MIN.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\马黄雷\Documents\Visual Studio 2013\Projects\作业文件\NFA2DFA2MIN\Debug\NFA2DFA2MIN.lib" /MACHINE:X86 Debug\NFA2DFA.obj
+         NFA2DFA2MIN.vcxproj -> C:\Users\马黄雷\Documents\Visual Studio 2013\Projects\作业文件\NFA2DFA2MIN\Debug\NFA2DFA2MIN.exe
+     1>已完成生成项目“C:\Users\马黄雷\Documents\Visual Studio 2013\Projects\作业文件\NFA2DFA2MIN\NFA2DFA2MIN\NFA2DFA2MIN.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.70
